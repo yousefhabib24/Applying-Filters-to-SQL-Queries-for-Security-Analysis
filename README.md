@@ -20,6 +20,4 @@ The queries were used to review after-hours failed login attempts, investigate s
 
 ### 📂 Repository Contents
 
-This repository contains the complete documentation and code for this security analysis project:
-
 * [`Filters in SQL Queries.pdf`](./Filters%20in%20SQL%20Queries.pdf): The full project summary and report.
